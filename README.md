@@ -70,8 +70,8 @@ npm install mineflayer
  * File needs to be edited:
 
 ```js
-host: "localhost",
-port: "25565",
+host: "localst",
+port: "25024",
 username: "Test"
 ```
  * node main.js
